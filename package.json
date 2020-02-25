@@ -1,0 +1,24 @@
+{
+  "name": "readmegen",
+  "version": "1.0.0",
+  "description": "This help users create a readme file for projects",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "enquirer": "^2.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NAOMIME/Node-HW-7.git"
+  },
+  "author": "Naomi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NAOMIME/Node-HW-7/issues"
+  },
+  "homepage": "https://github.com/NAOMIME/Node-HW-7#readme"
+}
