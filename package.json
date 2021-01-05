@@ -4,7 +4,7 @@
   "description": "This help users create a readme file for projects",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "enquirer": "^2.3.4"
   },
   "devDependencies": {},
